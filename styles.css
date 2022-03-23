@@ -1,0 +1,36 @@
+#title {
+    font-size: 36px;
+    font-weight: bold;
+    color:darkcyan;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.line {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.desc,
+.header,
+li,
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.desc {
+    font-size: 24px;
+}
+
+.header {
+    font-size: 18px;
+}
+
+li {
+    font-size: 12px;
+}
